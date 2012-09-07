@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.07pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Herramienta}{3}{0}{1}
+\beamer@sectionintoc {2}{Procesos de nivel 1}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Actores y roles}{4}{0}{2}
+\beamer@subsectionintoc {2}{2}{Modelos de procesos a nivel de Macro procesos}{5}{0}{2}
+\beamer@subsectionintoc {2}{3}{Descripci\IeC {\'o}n de modelos de procesos nivel 1}{6}{0}{2}
+\beamer@sectionintoc {3}{Conclusiones}{11}{0}{3}
