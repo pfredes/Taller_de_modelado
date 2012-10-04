@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.7.16)  4 OCT 2012 15:16
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.7.16)  4 OCT 2012 16:52
 entering extended mode
  %&-line parsing enabled.
 **taller.tex
@@ -165,178 +165,97 @@ File: lstlang1.sty 2004/09/05 1.3 listings language file
 )
 (/usr/share/texmf-texlive/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
-) (./taller.aux)
+)
+\c@theorem=\count104
+ (./taller.aux
+(./tapa.aux))
 \openout1 = `taller.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-
-(/usr/share/texmf-texlive/tex/latex/ucs/ucsencs.def
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+ (/usr/share/texmf-texlive/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2003/11/29 Fixes to fontencodings LGR, T3
 )
 (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count104
+\scratchcounter=\count105
 \scratchdimen=\dimen110
 \scratchbox=\box30
-\nofMPsegments=\count105
-\nofMParguments=\count106
+\nofMPsegments=\count106
+\nofMParguments=\count107
 \everyMPshowfont=\toks25
-\MPscratchCnt=\count107
+\MPscratchCnt=\count108
 \MPscratchDim=\dimen111
-\MPnumerator=\count108
+\MPnumerator=\count109
 \everyMPtoPDFconversion=\toks26
 )
-\c@lstlisting=\count109
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 43.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 43.
- (/usr/share/texmf-texlive/tex/latex/ucs/data/uni-0.def
-File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
-)
+\c@lstlisting=\count110
+\openout2 = `tapa.aux'.
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 43.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 43.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 43.
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./taller.toc
+ (./tapa.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 5.
-)
+ <imagenes/utfsm.jpg, id=1, 243.0681pt x 177.5433pt>
+File: imagenes/utfsm.jpg Graphic file (type jpg)
+
+<use imagenes/utfsm.jpg> (/usr/share/texmf-texlive/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
+) <imagenes/di.png, id=2, 389.455pt x 301.125pt>
+File: imagenes/di.png Graphic file (type png)
+ <use imagenes/di.png> [1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./imagenes/utfsm.jpg> <./i
+magenes/di.png (PNG copy)>]) (./taller.toc)
 \tf@toc=\write4
 \openout4 = `taller.toc'.
 
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 50.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 98.
 
-[2] (./src/introduccion.tex
-(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-32.def
-File: uni-32.def 2004/10/17 UCS: Unicode data U+2000..U+20FF
-))
-(./src/herramienta.tex
-Underfull \hbox (badness 10000) in paragraph at lines 1--3
+[1
 
- []
+] (./src/introduccion.tex) (./src/herramienta.tex
 
+LaTeX Warning: Command \textdegree invalid in math mode on input line 34.
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--20
-
- []
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 26.
-
-[3]) (./src/procesos.tex
-<./imagenes/Macro_proceso.png, id=19, 642.90187pt x 685.8122pt>
-File: ./imagenes/Macro_proceso.png Graphic file (type png)
-
-<use ./imagenes/Macro_proceso.png>
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 24.
-
-[4]
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 26.
-
-[5 <./imagenes/Macro_proceso.png>]
-<./imagenes/produccion_pan.png, id=28, 753.81625pt x 593.21625pt>
-File: ./imagenes/produccion_pan.png Graphic file (type png)
-
-<use ./imagenes/produccion_pan.png>
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 37.
-
-[6 <./imagenes/produccion_pan.png>]
-<./imagenes/produccion_reposteria.png, id=33, 565.36218pt x 394.47375pt>
-File: ./imagenes/produccion_reposteria.png Graphic file (type png)
-
-<use ./imagenes/produccion_reposteria.png>
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 49.
-
-(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 49.
-
-<./imagenes/ventas.png, id=34, 734.745pt x 639.89063pt>
-File: ./imagenes/ventas.png Graphic file (type png)
-
-<use ./imagenes/ventas.png>
-Overfull \hbox (10.77365pt too wide) in paragraph at lines 55--55
- [] 
- []
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 56.
-
-[7 <./imagenes/produccion_reposteria.png>]
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 66.
-
-[8 <./imagenes/ventas.png>]
-<./imagenes/Distribucion.png, id=44, 1510.64375pt x 744.7825pt>
-File: ./imagenes/Distribucion.png Graphic file (type png)
-
-<use ./imagenes/Distribucion.png>
-Overfull \hbox (10.77365pt too wide) in paragraph at lines 69--69
- [] 
- []
-
-<./imagenes/Abastecimiento.png, id=45, 920.68968pt x 430.60875pt>
-File: ./imagenes/Abastecimiento.png Graphic file (type png)
-
-<use ./imagenes/Abastecimiento.png>
-Overfull \hbox (10.77365pt too wide) in paragraph at lines 83--83
- [] 
- []
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 84.
-
-[9 <./imagenes/Distribucion.png>]) (./src/conclusion.tex)
+[2]) (./src/criterios.tex) (./src/ejemplo_proceso.tex) (./src/conclusion.tex)
 No file taller.bbl.
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 68.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 119.
 
-[10 <./imagenes/Abastecimiento.png>] (./taller.aux) ) 
+[3] (./taller.aux (./tapa.aux)) ) 
 Here is how much of TeX's memory you used:
- 4697 strings out of 495061
- 62931 string characters out of 1182621
- 151767 words of memory out of 3000000
- 7821 multiletter control sequences out of 15000+50000
- 8856 words of font info for 31 fonts, out of 3000000 for 9000
+ 4477 strings out of 495061
+ 59749 string characters out of 1182621
+ 150767 words of memory out of 3000000
+ 7606 multiletter control sequences out of 15000+50000
+ 6757 words of font info for 24 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 29i,14n,49p,1014b,611s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/
-fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1
-/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/ams
-fonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr
-12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
-/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texm
-f-texlive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-texlive/fo
-nts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on taller.pdf (10 pages, 343145 bytes).
+ 29i,13n,49p,346b,695s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/a
+msfonts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
+></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
+/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-texli
+ve/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-texlive/fonts/ty
+pe1/public/amsfonts/cm/cmti8.pfb>
+Output written on taller.pdf (4 pages, 408077 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
+ 45 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,8 +1,0 @@
-\select@language {spanish}
-\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{3}
-\contentsline {section}{\numberline {2}Herramienta}{3}
-\contentsline {section}{\numberline {3}Procesos de nivel 1}{4}
-\contentsline {subsection}{\numberline {3.1}Actores y roles}{4}
-\contentsline {subsection}{\numberline {3.2}Modelos de procesos a nivel de Macro procesos}{4}
-\contentsline {subsection}{\numberline {3.3}Descripci\IeC {\'o}n de modelos de procesos nivel 1}{6}
-\contentsline {section}{\numberline {4}Conclusiones}{10}
