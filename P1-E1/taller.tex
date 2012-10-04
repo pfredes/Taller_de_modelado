@@ -1,99 +1,61 @@
-\documentclass[10pt,letterpaper]{article}
-\usepackage[spanish]{babel}
-\usepackage[utf8x]{inputenc}
-\usepackage{fancyvrb}
-\usepackage{fancyhdr}
-\usepackage{url}
-\usepackage{verbatim}
+\documentclass[letterpaper,12pt,spanish]{article}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{amsfonts}
 \usepackage{graphicx}
-\usepackage{rotating}
-\usepackage{listings}
+\usepackage{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+\usepackage{fleqn}
+\usepackage{fancyhdr}
+\usepackage{multirow}
+\usepackage{multicol} 
+\usepackage{anysize}
+\pagestyle{fancy}
+
+\marginsize{2,5cm}{2,5cm}{0,5cm}{1,8cm}
+
+\pagestyle{fancy}
 
 
-\lstset{
-language=C
-}
+\hypersetup{pdfpagemode=UseOutlines}
+\hypersetup{colorlinks=true}
+\hypersetup{urlcolor=red}
+\hypersetup{linkcolor=blue}
+\hypersetup{citecolor=black}
 
-\parskip 1mm %Espacio entre parrafos
-
-\setlength{\topmargin}{0pt}
-\topmargin      0.5cm
-\oddsidemargin	0cm  % Ancho Letter 21,59cm
-\evensidemargin 0.5cm  % Alto  Letter 27,81cm
-\textwidth	17cm
-\textheight	21.0cm
-\headsep	4 mm
-\parindent	0.5cm
-%%%%%%%%%%%%%%%%%%%%%%
-%Estilo del documento%
-%%%%%%%%%%%%%%%%%%%%%%
-\pagestyle{fancyplain}
-
-\lhead{Taller de Herramientas de Modelado de Procesos de Negocio}
-
-\rhead{\bf \it Proyecto N$°$2, Etapa 0 }
-\lfoot{}
-\cfoot{}
-\rfoot{\bf \thepage}
+\fancyfoot{}
+\fancyhead[LE,RO]{\includegraphics[scale=0.82]{imagenes/logoinf.jpg}}
+\fancyhead[LO,RE]{\includegraphics[scale=0.3]{imagenes/logo_usm.JPG}}
+\fancyfoot[LE,RO]{\thepage}
+\fancyfoot[LO,RE]{Taller de Herramientas Modelado de Procesos de Negocio}
+\renewcommand{\headrulewidth}{0.4pt}
 \renewcommand{\footrulewidth}{0.4pt}
 
-\newtheorem{theorem}{Theorem}
-\newtheorem{acknowledgement}[theorem]{Acknowledgement}
-\newtheorem{algorithm}[theorem]{Algorithm}
-\newtheorem{axiom}[theorem]{Axiom}
-\newtheorem{case}[theorem]{Case}
-\newtheorem{claim}[theorem]{Claim}
-\newtheorem{conclusion}[theorem]{Conclusion}
-\newtheorem{condition}[theorem]{Condition}
-\newtheorem{conjecture}[theorem]{Conjecture}
-\newtheorem{corollary}[theorem]{Corollary}
-\newtheorem{criterion}[theorem]{Criterion}
-\newtheorem{definition}[theorem]{Definition}
-\newtheorem{example}[theorem]{Example}
-\newtheorem{exercise}[theorem]{Exercise}
-\newtheorem{lemma}[theorem]{Lemma}
-\newtheorem{notation}[theorem]{Notation}
-\newtheorem{problem}[theorem]{Problem}
-\newtheorem{proposition}[theorem]{Proposition}
-\newtheorem{remark}[theorem]{Remark}
-\newtheorem{solution}[theorem]{Solution}
-\newtheorem{summary}[theorem]{Summary}
-\newenvironment{proof}[1][Proof]{\noindent\textbf{#1.} }{\ \rule{0.5em}{0.5em}}
+\renewcommand{\sfdefault}{phv} 
+%\sffamily %trabaja con helvetica en el cuerpo del documento
+%\renewcommand{\rmfamily}{phv} % permite trabajar con helvetica los títulos
 
-\newcommand{\primaria}[1]{
-	\textbf{\underline{#1}}
+%\renewcommand{\familydefault}{phv} % permite trabajar con letra helvetica los títulos
+
+
+\author{
+{\normalsize Patricia Fredes Arce 2584080-1}\\
+{\normalsize Maria José Polloni Fuentes 2873042-k}\\
+{\normalsize Margarita Ortega Rodriguez 2773024-8}\\
+{\normalsize Fernando Morales 2573034-8}\\
 }
-
-\newcommand{\foranea}[1]{
-	\textbf{\textsl{#1}}
+\title{\vspace{-1cm}\includegraphics[scale=0.5]{imagenes/logo_usm.JPG}\\\vspace{-0.2cm}
+    {\small \scshape Universidad T\'ecnica Federico Santa Mar\'ia}\\
+    \vspace{1cm}
+    {\bfseries Taller de Herramientas de Modelado de Procesos de Negocio} \\ {\Large Proyecto 1: Etapa 1} \\\vspace{0.2cm}{\normalsize Viktor Tapia}
 }
-
-\newcommand{\primyfor}[1]{
-	\underline{\foranea{#1}}
-}
-
-\makeatletter
-\newcommand\subsubsubsection{\@startsection {paragraph}{1}{\z@}%
-                                   {-3.5ex \@plus -1ex \@minus -.2ex}%
-                                   {1.5ex \@plus.2ex}%
-                                   {\normalfont\bfseries}}
-\newcommand\subsubsubsubsection{\@startsection {subparagraph}{1}{\z@}%
-                                   {-3.5ex \@plus -1ex \@minus -.2ex}%
-                                   {1.5ex \@plus.2ex}%
-                                   {\normalfont\bfseries}}
-
-
-\makeatother
-
-
-\newpage
+\date{Valpara\'iso, 5 de Octubre del 2012.}
 
 \begin{document}
-
-
-\include{tapa}
-
-
+\maketitle
+\thispagestyle{empty}
+\newpage
 \tableofcontents
 \newpage
 

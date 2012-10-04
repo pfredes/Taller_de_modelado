@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.7.16)  4 OCT 2012 16:08
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.8)  4 OCT 2012 16:10
 entering extended mode
  %&-line parsing enabled.
 **tapa.tex
 (./tapa.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
-yphenation, loaded.
+yphenation, spanish, galician, catalan, loaded.
 
 ! LaTeX Error: Environment titlepage undefined.
 
@@ -172,7 +172,7 @@ Missing character: There is no / in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no i in font nullfont!
 ! Undefined control sequence.
-l.24 		\LARGE
+l.24 		\large
              {\sc{Proyecto 1: Etapa 1}}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -181,7 +181,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.24 		\LARGE{\sc
+l.24 		\large{\sc
                  {Proyecto 1: Etapa 1}}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -206,9 +206,9 @@ Missing character: There is no p in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Undefined control sequence.
-<recently read> \LARGE 
+<recently read> \large 
                        
-l.25 		\LARGE
+l.25 		\large
              {\sc{Taller de Herramientas de Modelado de procesos de negocio ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -217,7 +217,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.25 		\LARGE{\sc
+l.25 		\large{\sc
                  {Taller de Herramientas de Modelado de procesos de negocio ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -538,11 +538,11 @@ or  <return>  to continue without it.
 
  
 Here is how much of TeX's memory you used:
- 15 strings out of 495061
- 220 string characters out of 1182621
- 46108 words of memory out of 3000000
- 3291 multiletter control sequences out of 15000+50000
+ 14 strings out of 494999
+ 215 string characters out of 1180817
+ 46184 words of memory out of 3000000
+ 3298 multiletter control sequences out of 15000+50000
  3986 words of font info for 15 fonts, out of 3000000 for 9000
- 28 hyphenation exceptions out of 8191
+ 54 hyphenation exceptions out of 8191
  19i,13n,12p,111b,215s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!
