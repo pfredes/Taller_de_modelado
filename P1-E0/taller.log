@@ -1,0 +1,356 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.7.16)  9 SEP 2012 02:18
+entering extended mode
+ %&-line parsing enabled.
+**taller.tex
+(./taller.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/spanish.ldf
+Language: spanish.ldf 2009/01/02 v5.0h Spanish support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+
+Package babel Warning: No hyphenation patterns were loaded for
+(babel)                the language `Spanish'
+(babel)                I will use the patterns loaded for \language=0 instead.
+
+\l@spanish = a dialect from \language0
+\es@datefmt=\count88
+\es@quottoks=\toks14
+\es@quotdepth=\count89
+Package babel Info: Making " an active character on input line 492.
+Package babel Info: Making . an active character on input line 585.
+Package babel Info: Making < an active character on input line 630.
+Package babel Info: Making > an active character on input line 630.
+)) (/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+(/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/share/texmf-texlive/tex/latex/ucs/ucs.sty
+Package: ucs 2004/10/17 UCS: Unicode input support
+
+(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2004/10/17 UCS: Unicode global data
+)
+\uc@secondtry=\count90
+\uc@combtoks=\toks17
+\uc@combtoksb=\toks18
+\uc@temptokena=\toks19
+)
+(/usr/share/texmf-texlive/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz) (/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+\FV@CodeLineNo=\count91
+\FV@InFile=\read1
+\FV@TabBox=\box26
+\c@FancyVerbLine=\count92
+\FV@StepNumber=\count93
+\FV@OutFile=\write3
+)
+(/usr/share/texmf-texlive/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(/usr/share/texmf-texlive/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks21
+\verbatim@line=\toks22
+\verbatim@in@stream=\read2
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count94
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/usr/share/texmf-texlive/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count95
+\rotFPtop=\skip52
+\rotFPbot=\skip53
+\rot@float@box=\box27
+\rot@mess@toks=\toks23
+)
+(/usr/share/texmf-texlive/tex/latex/listings/listings.sty
+\lst@mode=\count96
+\lst@gtempboxa=\box28
+\lst@token=\toks24
+\lst@length=\count97
+\lst@currlwidth=\dimen106
+\lst@column=\count98
+\lst@pos=\count99
+\lst@lostspace=\dimen107
+\lst@width=\dimen108
+\lst@newlines=\count100
+\lst@lineno=\count101
+\lst@maxwidth=\dimen109
+
+(/usr/share/texmf-texlive/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count102
+\lst@skipnumbers=\count103
+\lst@framebox=\box29
+)
+(/usr/share/texmf-texlive/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(/usr/share/texmf-texlive/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+(/usr/share/texmf-texlive/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+) (./taller.aux)
+\openout1 = `taller.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+
+(/usr/share/texmf-texlive/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2003/11/29 Fixes to fontencodings LGR, T3
+)
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count104
+\scratchdimen=\dimen110
+\scratchbox=\box30
+\nofMPsegments=\count105
+\nofMParguments=\count106
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count107
+\MPscratchDim=\dimen111
+\MPnumerator=\count108
+\everyMPtoPDFconversion=\toks26
+)
+\c@lstlisting=\count109
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 43.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 43.
+ (/usr/share/texmf-texlive/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
+)
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 43.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 43.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 43.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./taller.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5.
+)
+\tf@toc=\write4
+\openout4 = `taller.toc'.
+
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 50.
+
+[2] (./src/introduccion.tex
+(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2004/10/17 UCS: Unicode data U+2000..U+20FF
+))
+(./src/herramienta.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--3
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+
+ []
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 26.
+
+[3]) (./src/procesos.tex
+<./imagenes/Macro_proceso.png, id=19, 642.90187pt x 685.8122pt>
+File: ./imagenes/Macro_proceso.png Graphic file (type png)
+
+<use ./imagenes/Macro_proceso.png>
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 24.
+
+[4]
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 26.
+
+[5 <./imagenes/Macro_proceso.png>]
+<./imagenes/produccion_pan.png, id=28, 753.81625pt x 593.21625pt>
+File: ./imagenes/produccion_pan.png Graphic file (type png)
+
+<use ./imagenes/produccion_pan.png>
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 37.
+
+[6 <./imagenes/produccion_pan.png>]
+<./imagenes/produccion_reposteria.png, id=33, 565.36218pt x 394.47375pt>
+File: ./imagenes/produccion_reposteria.png Graphic file (type png)
+
+<use ./imagenes/produccion_reposteria.png>
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 49.
+
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 49.
+
+<./imagenes/ventas.png, id=34, 734.745pt x 639.89063pt>
+File: ./imagenes/ventas.png Graphic file (type png)
+
+<use ./imagenes/ventas.png>
+Overfull \hbox (10.77365pt too wide) in paragraph at lines 55--55
+ [] 
+ []
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 56.
+
+[7 <./imagenes/produccion_reposteria.png>]
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 66.
+
+[8 <./imagenes/ventas.png>]
+<./imagenes/Distribucion.png, id=44, 1510.64375pt x 744.7825pt>
+File: ./imagenes/Distribucion.png Graphic file (type png)
+
+<use ./imagenes/Distribucion.png>
+Overfull \hbox (10.77365pt too wide) in paragraph at lines 69--69
+ [] 
+ []
+
+<./imagenes/Abastecimiento.png, id=45, 920.68968pt x 430.60875pt>
+File: ./imagenes/Abastecimiento.png Graphic file (type png)
+
+<use ./imagenes/Abastecimiento.png>
+Overfull \hbox (10.77365pt too wide) in paragraph at lines 83--83
+ [] 
+ []
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 84.
+
+[9 <./imagenes/Distribucion.png>]) (./src/conclusion.tex) (./taller.bbl
+
+LaTeX Warning: Empty `thebibliography' environment on input line 4.
+
+
+Overfull \hbox (11.27782pt too wide) in paragraph at lines 2--4
+[]\OT1/cmr/m/n/10 http://www.bizagi.com/index.php?option=com[]content&view=arti
+cle&id=95&Itemid=107&lang=es 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--4
+
+ []
+
+)
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 68.
+
+[10 <./imagenes/Abastecimiento.png>] (./taller.aux) ) 
+Here is how much of TeX's memory you used:
+ 4700 strings out of 495061
+ 62971 string characters out of 1182621
+ 151767 words of memory out of 3000000
+ 7822 multiletter control sequences out of 15000+50000
+ 8856 words of font info for 31 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 29i,14n,49p,1014b,611s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/
+fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1
+/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/ams
+fonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr
+12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
+/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texm
+f-texlive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-texlive/fo
+nts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on taller.pdf (10 pages, 344740 bytes).
+PDF statistics:
+ 80 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
