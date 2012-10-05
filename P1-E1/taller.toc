@@ -4,6 +4,6 @@
 \contentsline {subsection}{\numberline {2.1} Componentes}{3}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Funcionalidad}{3}{subsection.2.2}
 \contentsline {subsection}{\numberline {2.3}Posibles \IeC {\'a}reas de uso}{4}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}Implementaci\'on}{4}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.4}Implementaci\IeC {\'o}n}{4}{subsection.2.4}
 \contentsline {section}{\numberline {3}Criterios a evaluar y An\IeC {\'a}lisis}{4}{section.3}
-\contentsline {section}{\numberline {4}Conclusiones}{5}{section.4}
+\contentsline {section}{\numberline {4}Conclusiones}{6}{section.4}
