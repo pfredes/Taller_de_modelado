@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.7.16)  5 OCT 2012 01:36
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.7.16)  5 OCT 2012 13:08
 entering extended mode
  %&-line parsing enabled.
 **taller.tex
@@ -673,13 +673,18 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2 <./imagenes/logoinf.jpg>] (./src/introduccion.tex) (./src/herramienta.tex
+[2 <./imagenes/logoinf.jpg>] (./src/introduccion.tex)
 File: imagenes/logo_usm.JPG Graphic file (type jpg)
 
 <use imagenes/logo_usm.JPG>
 File: imagenes/logoinf.jpg Graphic file (type jpg)
- <use imagenes/logoinf.jpg> [3])
-(./src/criterios.tex
+ <use imagenes/logoinf.jpg> [3]
+(./src/herramienta.tex
+File: imagenes/logo_usm.JPG Graphic file (type jpg)
+ <use imagenes/logo_usm.JPG>
+File: imagenes/logoinf.jpg Graphic file (type jpg)
+ <use imagenes/logoinf.jpg>
+[4]) (./src/criterios.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
@@ -687,8 +692,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--2
 File: imagenes/logo_usm.JPG Graphic file (type jpg)
 <use imagenes/logo_usm.JPG>
 File: imagenes/logoinf.jpg Graphic file (type jpg)
- <use imagenes/logoinf.jpg> [4]
-<./imagenes/modelos_pm.png, id=72, 808.52063pt x 578.16pt>
+ <use imagenes/logoinf.jpg> [5]
+<./imagenes/modelos_pm.png, id=76, 808.52063pt x 578.16pt>
 File: ./imagenes/modelos_pm.png Graphic file (type png)
 
 <use ./imagenes/modelos_pm.png>
@@ -696,12 +701,12 @@ File: imagenes/logo_usm.JPG Graphic file (type jpg)
  <use imagenes/logo_usm.JPG>
 File: imagenes/logoinf.jpg Graphic file (type jpg)
 
-<use imagenes/logoinf.jpg> [5]
-<./imagenes/menu.png, id=77, 134.00063pt x 23.33719pt>
+<use imagenes/logoinf.jpg> [6]
+<./imagenes/menu.png, id=81, 134.00063pt x 23.33719pt>
 File: ./imagenes/menu.png Graphic file (type png)
 
 <use ./imagenes/menu.png>
-<./imagenes/clickmenu.png, id=78, 154.32657pt x 309.40594pt>
+<./imagenes/clickmenu.png, id=82, 154.32657pt x 309.40594pt>
 File: ./imagenes/clickmenu.png Graphic file (type png)
 
 <use ./imagenes/clickmenu.png>
@@ -709,34 +714,34 @@ File: imagenes/logo_usm.JPG Graphic file (type jpg)
  <use imagenes/logo_usm.JPG>
 File: imagenes/logoinf.jpg Graphic file (type jpg)
 
-<use imagenes/logoinf.jpg> [6 <./imagenes/modelos_pm.png (PNG copy)> <./imagene
+<use imagenes/logoinf.jpg> [7 <./imagenes/modelos_pm.png (PNG copy)> <./imagene
 s/menu.png (PNG copy)> <./imagenes/clickmenu.png>]
 File: imagenes/logo_usm.JPG Graphic file (type jpg)
  <use imagenes/logo_usm.JPG>
 File: imagenes/logoinf.jpg Graphic file (type jpg)
 
-<use imagenes/logoinf.jpg> [7]) (./src/conclusion.tex)
+<use imagenes/logoinf.jpg> [8]) (./src/conclusion.tex)
 No file taller.bbl.
 File: imagenes/logo_usm.JPG Graphic file (type jpg)
 <use imagenes/logo_usm.JPG>
 File: imagenes/logoinf.jpg Graphic file (type jpg)
- <use imagenes/logoinf.jpg> [8] (./taller.aux) ) 
+ <use imagenes/logoinf.jpg> [9] (./taller.aux) ) 
 Here is how much of TeX's memory you used:
- 6273 strings out of 495061
- 85416 string characters out of 1182621
+ 6274 strings out of 495061
+ 85422 string characters out of 1182621
  171093 words of memory out of 3000000
  9284 multiletter control sequences out of 15000+50000
  13311 words of font info for 51 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 38i,17n,43p,959b,397s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,17n,43p,959b,394s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts
 /type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/publ
 ic/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfont
 s/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr17.p
 fb>
-Output written on taller.pdf (8 pages, 165943 bytes).
+Output written on taller.pdf (9 pages, 167889 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 500000)
+ 119 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
  98 words of extra memory for PDF output out of 10000 (max. 10000000)
 

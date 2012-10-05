@@ -1,10 +1,10 @@
 \select@language {spanish}
 \contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{3}{section.1}
-\contentsline {section}{\numberline {2}Herramienta}{3}{section.2}
-\contentsline {subsection}{\numberline {2.1}Componentes}{3}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Funcionalidad}{4}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Posibles \IeC {\'a}reas de uso}{4}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}Implementaci\IeC {\'o}n}{4}{subsection.2.4}
+\contentsline {section}{\numberline {2}Herramienta}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Componentes}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Funcionalidad}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Posibles \IeC {\'a}reas de uso}{5}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Implementaci\IeC {\'o}n}{5}{subsection.2.4}
 \contentsline {section}{\numberline {3}Criterios y An\IeC {\'a}lisis}{5}{section.3}
-\contentsline {subsection}{\numberline {3.1}Ejemplo de Proceso de obtenci\IeC {\'o}n de tarjeta de cr\IeC {\'e}dito}{5}{subsection.3.1}
-\contentsline {section}{\numberline {4}Conclusiones}{8}{section.4}
+\contentsline {subsection}{\numberline {3.1}Ejemplo de Proceso de obtenci\IeC {\'o}n de tarjeta de cr\IeC {\'e}dito}{6}{subsection.3.1}
+\contentsline {section}{\numberline {4}Conclusiones}{9}{section.4}
