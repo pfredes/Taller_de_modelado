@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.8)  4 OCT 2012 17:29
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.8)  4 OCT 2012 18:10
 entering extended mode
  %&-line parsing enabled.
 **taller.tex
@@ -620,7 +620,7 @@ LaTeX Info: Redefining \pageref on input line 55.
 \openout3 = `taller.out'.
 
 \AtBeginShipoutBox=\box55
- <imagenes/logo_usm.JPG, id=35, 145.2627pt x 103.3461pt>
+ <imagenes/logo_usm.JPG, id=39, 145.2627pt x 103.3461pt>
 File: imagenes/logo_usm.JPG Graphic file (type jpg)
 
 <use imagenes/logo_usm.JPG>
@@ -643,7 +643,7 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 File: imagenes/logo_usm.JPG Graphic file (type jpg)
 
 <use imagenes/logo_usm.JPG>
-<imagenes/logoinf.jpg, id=53, 51.3117pt x 39.58507pt>
+<imagenes/logoinf.jpg, id=58, 51.3117pt x 39.58507pt>
 File: imagenes/logoinf.jpg Graphic file (type jpg)
 
 <use imagenes/logoinf.jpg>
@@ -668,35 +668,36 @@ File: imagenes/logo_usm.JPG Graphic file (type jpg)
 <use imagenes/logo_usm.JPG>
 File: imagenes/logoinf.jpg Graphic file (type jpg)
  <use imagenes/logoinf.jpg> [4]
-<./imagenes/modelos_pm.png, id=67, 808.52063pt x 578.16pt>
+<./imagenes/modelos_pm.png, id=72, 808.52063pt x 578.16pt>
 File: ./imagenes/modelos_pm.png Graphic file (type png)
 
-<use ./imagenes/modelos_pm.png>) (./src/conclusion.tex)
+<use ./imagenes/modelos_pm.png>
+File: imagenes/logo_usm.JPG Graphic file (type jpg)
+ <use imagenes/logo_usm.JPG>
+File: imagenes/logoinf.jpg Graphic file (type jpg)
+
+<use imagenes/logoinf.jpg> [5]) (./src/conclusion.tex)
 No file taller.bbl.
 File: imagenes/logo_usm.JPG Graphic file (type jpg)
 <use imagenes/logo_usm.JPG>
 File: imagenes/logoinf.jpg Graphic file (type jpg)
- <use imagenes/logoinf.jpg> [5 <./imagenes/modelos_pm.png (PNG copy)>]
-File: imagenes/logo_usm.JPG Graphic file (type jpg)
- <use imagenes/logo_usm.JPG>
-File: imagenes/logoinf.jpg Graphic file (type jpg)
- <use imagenes/logoinf.jpg>
-[6] (./taller.aux) ) 
+ <use imagenes/logoinf.jpg> [6 <./imagenes/modelos_pm.png (PNG copy)>] (./talle
+r.aux) ) 
 Here is how much of TeX's memory you used:
- 6139 strings out of 494999
- 83627 string characters out of 1180817
- 168500 words of memory out of 3000000
- 9171 multiletter control sequences out of 15000+50000
+ 6142 strings out of 494999
+ 83672 string characters out of 1180817
+ 167500 words of memory out of 3000000
+ 9173 multiletter control sequences out of 15000+50000
  13311 words of font info for 51 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
- 38i,16n,43p,511b,386s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
-bx12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><
-/usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/t
-exmf-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on taller.pdf (6 pages, 143965 bytes).
+ 38i,17n,43p,959b,397s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></u
+sr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/t
+exmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive
+/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on taller.pdf (6 pages, 146868 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
- 80 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 100 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
+ 88 words of extra memory for PDF output out of 10000 (max. 10000000)
 
