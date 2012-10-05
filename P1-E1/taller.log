@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.8)  4 OCT 2012 18:10
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.7.16)  5 OCT 2012 00:42
 entering extended mode
  %&-line parsing enabled.
 **taller.tex
 (./taller.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
-yphenation, spanish, galician, catalan, loaded.
+yphenation, loaded.
 (/usr/share/texmf-texlive/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/share/texmf-texlive/tex/latex/base/size12.clo
@@ -128,6 +128,12 @@ File: babel.def 2008/07/06 v3.8l Babel common definitions
 \babel@savecnt=\count100
 \U@D=\dimen114
 )
+
+Package babel Warning: No hyphenation patterns were loaded for
+(babel)                the language `Spanish'
+(babel)                I will use the patterns loaded for \language=0 instead.
+
+\l@spanish = a dialect from \language0
 \es@datefmt=\count101
 \es@quottoks=\toks21
 \es@quotdepth=\count102
@@ -135,8 +141,7 @@ Package babel Info: Making " an active character on input line 492.
 Package babel Info: Making . an active character on input line 585.
 Package babel Info: Making < an active character on input line 630.
 Package babel Info: Making > an active character on input line 630.
-))
-(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+)) (/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks22
 \inpenc@posthook=\toks23
@@ -546,54 +551,69 @@ Version 1.0, Aug 13, 1994
 \@Rightmargin=\dimen129
 \@Topmargin=\dimen130
 \@Bottommargin=\dimen131
+) (/usr/share/texmf-texlive/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count118
+\float@exts=\toks25
+\float@box=\box54
+\@float@everytoks=\toks26
+\@floatcapt=\box55
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 22.
+(/usr/share/texmf-texlive/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen132
+\WF@size=\dimen133
+\c@WF@wrappedlines=\count119
+\WF@box=\box56
+\WF@everypar=\toks27
+Package: wrapfig 2003/01/31  v 3.6
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 25.
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 28.
-
-
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 29.
-
-
-Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 30.
-
-
-Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
 less on input line 31.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 32.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 33.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 34.
 
 (./taller.aux)
 \openout1 = `taller.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
  (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count118
-\scratchdimen=\dimen132
-\scratchbox=\box54
-\nofMPsegments=\count119
-\nofMParguments=\count120
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count121
-\MPscratchDim=\dimen133
-\MPnumerator=\count122
-\everyMPtoPDFconversion=\toks26
+\scratchcounter=\count120
+\scratchdimen=\dimen134
+\scratchbox=\box57
+\nofMPsegments=\count121
+\nofMParguments=\count122
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count123
+\MPscratchDim=\dimen135
+\MPnumerator=\count124
+\everyMPtoPDFconversion=\toks29
 ) (/usr/share/texmf-texlive/tex/latex/graphics/color.sty
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
@@ -602,7 +622,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-Package hyperref Info: Link coloring ON on input line 55.
+Package hyperref Info: Link coloring ON on input line 58.
 
 (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
@@ -610,26 +630,26 @@ Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
 (/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
 Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
-\c@section@level=\count123
+\c@section@level=\count125
 )
-LaTeX Info: Redefining \ref on input line 55.
-LaTeX Info: Redefining \pageref on input line 55.
+LaTeX Info: Redefining \ref on input line 58.
+LaTeX Info: Redefining \pageref on input line 58.
  (./taller.out)
 (./taller.out)
 \@outlinefile=\write3
 \openout3 = `taller.out'.
 
-\AtBeginShipoutBox=\box55
+\AtBeginShipoutBox=\box58
  <imagenes/logo_usm.JPG, id=39, 145.2627pt x 103.3461pt>
 File: imagenes/logo_usm.JPG Graphic file (type jpg)
 
 <use imagenes/logo_usm.JPG>
-LaTeX Font Info:    Try loading font information for U+msa on input line 57.
+LaTeX Font Info:    Try loading font information for U+msa on input line 60.
 
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 57.
+LaTeX Font Info:    Try loading font information for U+msb on input line 60.
 
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
@@ -676,28 +696,47 @@ File: imagenes/logo_usm.JPG Graphic file (type jpg)
  <use imagenes/logo_usm.JPG>
 File: imagenes/logoinf.jpg Graphic file (type jpg)
 
-<use imagenes/logoinf.jpg> [5]) (./src/conclusion.tex)
+<use imagenes/logoinf.jpg> [5]
+<./imagenes/menu.png, id=77, 134.00063pt x 23.33719pt>
+File: ./imagenes/menu.png Graphic file (type png)
+
+<use ./imagenes/menu.png>
+<./imagenes/clickmenu.png, id=78, 154.32657pt x 309.40594pt>
+File: ./imagenes/clickmenu.png Graphic file (type png)
+
+<use ./imagenes/clickmenu.png>
+File: imagenes/logo_usm.JPG Graphic file (type jpg)
+ <use imagenes/logo_usm.JPG>
+File: imagenes/logoinf.jpg Graphic file (type jpg)
+
+<use imagenes/logoinf.jpg> [6 <./imagenes/modelos_pm.png (PNG copy)> <./imagene
+s/menu.png (PNG copy)> <./imagenes/clickmenu.png>]
+File: imagenes/logo_usm.JPG Graphic file (type jpg)
+ <use imagenes/logo_usm.JPG>
+File: imagenes/logoinf.jpg Graphic file (type jpg)
+
+<use imagenes/logoinf.jpg> [7]) (./src/conclusion.tex)
 No file taller.bbl.
 File: imagenes/logo_usm.JPG Graphic file (type jpg)
 <use imagenes/logo_usm.JPG>
 File: imagenes/logoinf.jpg Graphic file (type jpg)
- <use imagenes/logoinf.jpg> [6 <./imagenes/modelos_pm.png (PNG copy)>] (./talle
-r.aux) ) 
+ <use imagenes/logoinf.jpg> [8] (./taller.aux) ) 
 Here is how much of TeX's memory you used:
- 6142 strings out of 494999
- 83672 string characters out of 1180817
- 167500 words of memory out of 3000000
- 9173 multiletter control sequences out of 15000+50000
+ 6273 strings out of 495061
+ 85416 string characters out of 1182621
+ 171093 words of memory out of 3000000
+ 9284 multiletter control sequences out of 15000+50000
  13311 words of font info for 51 fonts, out of 3000000 for 9000
- 54 hyphenation exceptions out of 8191
+ 28 hyphenation exceptions out of 8191
  38i,17n,43p,959b,397s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></u
-sr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/t
-exmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive
-/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on taller.pdf (6 pages, 146868 bytes).
+</usr/share/texmf-texlive/fonts
+/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/publ
+ic/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfont
+s/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr17.p
+fb>
+Output written on taller.pdf (8 pages, 165386 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
- 88 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 115 PDF objects out of 1000 (max. 8388607)
+ 19 named destinations out of 1000 (max. 500000)
+ 98 words of extra memory for PDF output out of 10000 (max. 10000000)
 
