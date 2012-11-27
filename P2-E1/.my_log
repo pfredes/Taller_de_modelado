@@ -1,0 +1,697 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+(./taller.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo))
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+(/usr/share/texmf-texlive/tex/generic/babel/spanish.ldf
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def)
+
+Package babel Warning: No hyphenation patterns were loaded for
+(babel)                the language `Spanish'
+(babel)                I will use the patterns loaded for \language=0 instead.
+
+)) (/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+
+! LaTeX Error: File `utf8x.def' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: def)
+
+Enter file name: ! Interruption.
+<to be read again> 
+                   }
+l.131 \endinput
+               ^^M
+? 
+Package inputenc Warning: No characters defined
+(inputenc)                by input encoding change to `utf8x'
+(inputenc)                 on input line 131.
+
+) (/usr/share/texmf-texlive/tex/latex/fancyvrb/fancyvrb.sty
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz) (/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty))
+(/usr/share/texmf-texlive/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty)
+(/usr/share/texmf-texlive/tex/latex/tools/verbatim.sty)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty)
+(/etc/texmf/tex/latex/config/graphics.cfg)
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def)))
+(/usr/share/texmf-texlive/tex/latex/rotating/rotating.sty
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty))
+(/usr/share/texmf-texlive/tex/latex/listings/listings.sty
+(/usr/share/texmf-texlive/tex/latex/listings/lstmisc.sty)
+(/usr/share/texmf-texlive/tex/latex/listings/listings.cfg))
+(/usr/share/texmf-texlive/tex/latex/listings/lstlang1.sty)
+(/usr/share/texmf-texlive/tex/latex/listings/lstmisc.sty)
+No file taller.aux.
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 \maketitle
+               
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 \maketitle
+               
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 \maketitle
+               
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 \maketitle
+               
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 \maketitle
+               
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 \maketitle
+               
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 \maketitle
+               
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 \maketitle
+               
+? [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+No file taller.toc.
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 \newpage
+             
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 \newpage
+             
+? [2]
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 \section{Introducci√≥n}
+                            
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 \section{Introducci√≥n}
+                            
+? (./src/introduccion.tex) (./src/herramienta.tex
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ... de los procesos de negocios de la panader√
+                                                  ≠a Rodenas es el software ...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...de los procesos de negocios de la panader√≠
+                                                  a Rodenas es el software \...
+
+? 
+Underfull \hbox (badness 10000) in paragraph at lines 1--3
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...amar sus procesos; luego oprimiendo el bot√
+                                                  ≥n Ejecutar se exporta el ...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...mar sus procesos; luego oprimiendo el bot√≥
+                                                  n Ejecutar se exporta el p...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...gi BPM Suite, donde un asistente lo acompa√
+                                                  ±ar√° por todos los pasos ...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...i BPM Suite, donde un asistente lo acompa√±
+                                                  ar√° por todos los pasos n...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...PM Suite, donde un asistente lo acompa√±ar√
+                                                  ° por todos los pasos nece...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...M Suite, donde un asistente lo acompa√±ar√°
+                                                   por todos los pasos neces...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...r el proceso y convertirlo en una aplicaci√
+                                                  ≥n ejecutable (workflow).
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ... el proceso y convertirlo en una aplicaci√≥
+                                                  n ejecutable (workflow).
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 Bizagi es la soluci√
+                        ≥n de BPM que le permite modelar, ejecutar y mejorar...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 Bizagi es la soluci√≥
+                         n de BPM que le permite modelar, ejecutar y mejorar...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...r y mejorar sus procesos de negocio a trav√
+                                                  ©s de un entorno gr√°fico ...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ... y mejorar sus procesos de negocio a trav√©
+                                                  s de un entorno gr√°fico y...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...esos de negocio a trav√©s de un entorno gr√
+                                                  °fico y sin necesidad de p...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...sos de negocio a trav√©s de un entorno gr√°
+                                                  fico y sin necesidad de pr...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...rno gr√°fico y sin necesidad de programaci√
+                                                  ≥n.
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...no gr√°fico y sin necesidad de programaci√≥
+                                                  n.
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...o inteligente" permite a los usuarios no-t√
+                                                  ©cnicos diagramar procesos...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ... inteligente" permite a los usuarios no-t√©
+                                                  cnicos diagramar procesos ...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ... los diagramas de proceso y la documentaci√
+                                                  ≥n correspondiente, √©stos...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...los diagramas de proceso y la documentaci√≥
+                                                  n correspondiente, √©stos ...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...ceso y la documentaci√≥n correspondiente, √
+                                                  ©stos pueden exportarse a ...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...eso y la documentaci√≥n correspondiente, √©
+                                                  stos pueden exportarse a W...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 Descripci√
+               ≥n t√©cnica:
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 Descripci√≥
+                n t√©cnica:
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 Descripci√≥n t√
+                    ©cnica:
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 Descripci√≥n t√©
+                     cnica:
+? 
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 \item Pantalla: 1024 x 768 o mayor resoluci√
+                                                 ≥n (tama√±o de la fuente al...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 \item Pantalla: 1024 x 768 o mayor resoluci√≥
+                                                  n (tama√±o de la fuente al...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 ...lla: 1024 x 768 o mayor resoluci√≥n (tama√
+                                                  ±o de la fuente al 100\%)
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 ...la: 1024 x 768 o mayor resoluci√≥n (tama√±
+                                                  o de la fuente al 100\%)
+? ) (./src/procesos.tex
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...e la empresa y el punto de control en el m√
+                                                  °ximo de procesos que pued...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ... la empresa y el punto de control en el m√°
+                                                  ximo de procesos que puede...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ... decisiones de la empresa pasan todas por √
+                                                  ©l. Tambi√©n se preocupa d...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...decisiones de la empresa pasan todas por √©
+                                                  l. Tambi√©n se preocupa de...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...s de la empresa pasan todas por √©l. Tambi√
+                                                  ©n se preocupa del abastec...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ... de la empresa pasan todas por √©l. Tambi√©
+                                                  n se preocupa del abasteci...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...inistrador, pero sin tener poder de decisi√
+                                                  ≥n en este lugar.
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...nistrador, pero sin tener poder de decisi√≥
+                                                  n en este lugar.
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...e encargan de ser el nexo entre la panader√
+                                                  ≠a y la distribuci√≥n de p...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ... encargan de ser el nexo entre la panader√≠
+                                                  a y la distribuci√≥n de pa...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...l nexo entre la panader√≠a y la distribuci√
+                                                  ≥n de pan a mayor escala. ...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ... nexo entre la panader√≠a y la distribuci√≥
+                                                  n de pan a mayor escala. D...
+
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 
+     
+? 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8x'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 
+     
+? [3
+! Undefined control sequence.
+\reserved@a ->\@nil 
+                    
+l.10 
+     
+? ! Undefined control sequence.
+\reserved@a ->\@nil 
+                    
+l.10 
+     
+? ! TeX capacity exceeded, sorry [input stack size=5000].
+\@inpenc@test ->\global \let \@inpenc@test 
+                                           \relax 
+l.10 
+     
+!  ==> Fatal error occurred, no output PDF file produced!
+Transcript written on taller.log.
